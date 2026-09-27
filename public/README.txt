@@ -1,0 +1,1 @@
+BUUGTIIS public assets folder.
